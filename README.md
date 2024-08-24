@@ -9,7 +9,6 @@ This is a full-stack Finance Tracker application that helps users manage their i
 - **Dashboard**: Visualize financial data with charts and summaries.
 - **Category Management**: Organize expenses and income by category for better tracking.
 - **User Authentication**: Secure login and registration system.
-- **Responsive Design**: Optimized for both desktop and mobile devices.
 
 ## Prerequisites
 
