@@ -6,7 +6,6 @@ This is a full-stack Finance Tracker application that helps users manage their i
 
 - **Expense Tracking**: Add, view, update, and delete expenses.
 - **Income Management**: Record and manage various sources of income.
-- **Dashboard**: Visualize financial data with charts and summaries.
 - **Category Management**: Organize expenses and income by category for better tracking.
 - **User Authentication**: Secure login and registration system.
 
